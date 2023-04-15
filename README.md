@@ -2,6 +2,8 @@
 
 Welcome to Quiz Card, a simple application that allows you to add your own questions and answers to boost your revision. This README file provides an overview of the application and instructions on how to use it.
 
+## View it Live [Here](https://anmol2059.github.io/quiz-card/)
+
 ## How to Use Quiz Card
 
 1. Clone this repository to your local machine.
