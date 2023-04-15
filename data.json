@@ -1,42 +1,162 @@
 [
     {
-        "qsn": "Spanish meaning of 'a'",
-        "answer": "Direction or recipient"
+        "qsn": "I bring the sodas for the party.",
+        "answer": "Yo traigo las sodas para la fiesta."
     },
     {
-        "qsn": "Spanish meaning of 'de'",
-        "answer": "Possession or origin"
+        "qsn": "I don't fit in my blue pants.",
+        "answer": "No quepo en mis pantalones azules."
     },
     {
-        "qsn": "Spanish meaning of 'en'",
-        "answer": "Location or means"
+        "qsn": "I go out every Friday.",
+        "answer": "Yo salgo todos los viernes."
     },
     {
-        "qsn": "Spanish meaning of 'por'",
-        "answer": "Cause or duration"
+        "qsn": "I get distracted with the music.",
+        "answer": "Me distraigo con la música."
     },
     {
-        "qsn": "Spanish meaning of 'para'",
-        "answer": "Purpose or destination"
+        "qsn": "I recognize my mistakes.",
+        "answer": "Reconozco mis errores."
     },
     {
-        "qsn": "Spanish meaning of 'con'",
-        "answer": "Accompaniment or means"
+        "qsn": "I am on vacation.",
+        "answer": "Estoy de vacaciones."
     },
     {
-        "qsn": "Spanish meaning of 'sin'",
-        "answer": "Absence or prohibition"
+        "qsn": "I put on some nice shoes!",
+        "answer": "¡Pongo unos lindos zapatos!"
     },
     {
-        "qsn": "Spanish meaning of 'sobre'",
-        "answer": "Above or topic"
+        "qsn": "I make chocolate cakes.",
+        "answer": "Hago pasteles de chocolate."
     },
     {
-        "qsn": "Spanish meaning of 'bajo'",
-        "answer": "Below or level"
+        "qsn": "Do you put the rice on the fire?",
+        "answer": "¿Pones el arroz en el fuego?"
     },
     {
-        "qsn": "Spanish meaning of 'entre'",
-        "answer": "Between or relationship"
+        "qsn": "I know that Mariana is cheating on me.",
+        "answer": "Sé que Mariana me engaña."
+    },
+    {
+        "qsn": "1. Larissa (vivir) en España.",
+        "answer": "Larissa vive en España."
+    },
+    {
+        "qsn": "2. David (comer) manzanas todos los días.",
+        "answer": "David come manzanas todos los días."
+    },
+    {
+        "qsn": "3. Paul no (entender) el español muy bien. (e>ie)",
+        "answer": "Paul no entiende el español muy bien. (e>ie)"
+    },
+    {
+        "qsn": "4. Corine y Ricky (planear) unas vacaciones a Grecia.",
+        "answer": "Corine y Ricky planean unas vacaciones a Grecia."
+    },
+    {
+        "qsn": "5. ¿Michael (jugar) fútbol?",
+        "answer": "¿Michael juega fútbol?"
+    },
+    {
+        "qsn": "6. Nosotros (querer) ir donde mis padrinos.",
+        "answer": "Nosotros queremos ir donde mis padrinos."
+    },
+    {
+        "qsn": "7. En el supermercado (vender) unas naranjas muy dulces.",
+        "answer": "En el supermercado venden unas naranjas muy dulces."
+    },
+    {
+        "qsn": "8. ¿Tú (tocar) la guitarra?",
+        "answer": "¿Tú tocas la guitarra?"
+    },
+    {
+        "qsn": "9. El guardia (cerrar) las puertas del museo.",
+        "answer": "El guardia cierra las puertas del museo."
+    },
+    {
+        "qsn": "10. Mi hermana (estudiar) biología en la universidad.",
+        "answer": "Mi hermana estudia biología en la universidad."
+    },
+    {
+        "qsn": "1. Los viernes (salir- yo) temprano del trabajo.",
+        "answer": "Los viernes salgo temprano del trabajo."
+    },
+    {
+        "qsn": "2. Mariana (vender) relojes por catálogo.",
+        "answer": "Mariana vende relojes por catálogo."
+    },
+    {
+        "qsn": "3. Louis (llegar) a las seis de la tarde.",
+        "answer": "Louis llega a las seis de la tarde."
+    },
+    {
+        "qsn": "4. Elizabeth (beber) café todas las mañanas.",
+        "answer": "Elizabeth bebe café todas las mañanas."
+    },
+    {
+        "qsn": "5. Este invierno (viajar- yo) a Canadá.",
+        "answer": "Este invierno viajo a Canadá."
+    },
+    {
+        "qsn": "6. Todas las tardes, Lorin (hablar) con su madre por teléfono.",
+        "answer": "Todas las tardes, Lorin habla con su madre por teléfono."
+    },
+    {
+        "qsn": "7. Siempre (leer- tú) novelas de misterio.",
+        "answer": "Siempre lees novelas de misterio."
+    },
+    {
+        "qsn": "8. (comer- yo) muchas frutas y verduras.",
+        "answer": "Como muchas frutas y verduras."
+    },
+    {
+        "qsn": "9. Todos los lunes, mi esposo (preparar) la cena.",
+        "answer": "Todos los lunes, mi esposo prepara la cena."
+    },
+    {
+        "qsn": "10. Mi hermana (trabajar) ocho horas al día.",
+        "answer": "Mi hermana trabaja ocho horas al día."
+    },
+    {
+        "qsn": "1. Hoy Nora (celebrar) su aniversario de bodas.",
+        "answer": "Hoy Nora celebra su aniversario de bodas."
+    },
+    {
+        "qsn": "2. Carmen (tener) mucha ropa en su maleta.",
+        "answer": "Carmen tiene mucha ropa en su maleta."
+    },
+    {
+        "qsn": "3. Lorin siempre (discutir) conmigo.",
+        "answer": "Lorin siempre discute conmigo."
+    },
+    {
+        "qsn": "4. Samantha (enseñar) español en la escuela.",
+        "answer": "Samantha enseña español en la escuela."
+    },
+    {
+        "qsn": "5. Mis hijos (jugar) videojuegos por las tardes.",
+        "answer": "Mis hijos juegan videojuegos por las tardes."
+    },
+    {
+        "qsn": "6. André (conocer) a su cantante favorito.",
+        "answer": "André conoce a su cantante favorito."
+    },
+    {
+        "qsn": "7. Sam (pagar) la cuenta en el restaurante.",
+        "answer": "Sam paga la cuenta en el restaurante."
+    },
+    {
+        "qsn": "8. Nosotras (vivir) cerca de la plaza.",
+        "answer": "Nosotras vivimos cerca de la plaza."
+    },
+    {
+        "qsn": "9. (hacer- yo) ejercicio todos los fines de semana.",
+        "answer": "Hago ejercicio todos los fines de semana."
+    },
+    {
+        "qsn": "10. ¿(empezar- vosotros) a trabajar hoy?",
+        "answer": "¿Empezáis vosotros a trabajar hoy?"
     }
 ]
