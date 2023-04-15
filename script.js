@@ -73,8 +73,10 @@ document.addEventListener("keydown", (event) => {
 });
 
 // initialize card click for spacebar
+// initialize card flip for spacebar
 document.addEventListener("keydown", (event) => {
     if (event.code === "Space") {
         card.classList.toggle("flipped");
+        event.preventDefault();
     }
 });
