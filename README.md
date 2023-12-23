@@ -36,6 +36,3 @@ This application was built using HTML, CSS, and JavaScript.
 
 The idea for Quiz Card was inspired by the [Quizlet](https://quizlet.com/) .
 
-## License
-
-This application is licensed under the [MIT License](LICENSE).
